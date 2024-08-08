@@ -3,7 +3,6 @@
 Store restock program that keeps track of how many items have been purchased and
 determines if each item needs to be restocked
 */
-Console.WriteLine("Hello, World!");
 
 //Varaible declaration
 int numSoda = 100;
@@ -12,6 +11,7 @@ int numCandy = 60;
 int restockSoda = 40;
 int restockChips = 20;
 int restockCandy = 40;
+
 int newSoda = 100;
 int newChips = 40;
 int newCandy = 60;
